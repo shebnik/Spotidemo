@@ -1,5 +1,6 @@
 ## Spotidemo
 
+Spotidemo is a Flutter project. 
 View popular arists, listen to 30s demo of songs and favourite them.
 
 # Build
